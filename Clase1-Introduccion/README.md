@@ -78,5 +78,5 @@ Vamos a escribir nuestro primer programa en Python en Spyder, que imprimirá el 
 ### Pasos para escribir el programa:
 - **Abrir Spyder**: Una vez que Spyder esté configurado, abre el editor de código.
 - **Escribir el código**: En el editor, escribe el siguiente código:
-print("Hello, World!")
 
+<pre>print("Hello, World!")</pre>
