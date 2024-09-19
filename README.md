@@ -5,6 +5,7 @@
 ¡Bienvenido al curso de Python! En este repositorio encontrarás todo el material necesario para aprender Python, desde los fundamentos hasta el desarrollo de un proyecto final. Además, se incluyen instrucciones detalladas sobre cómo instalar las herramientas necesarias para seguir el curso.
 
 ![Python Logo](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
+
 ![Python](https://img.shields.io/badge/Python-4CAF50?style=for-the-badge&logo=python&logoColor=white)![Spyder](https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyder-ide&logoColor=white)![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)![Matplotlib](https://img.shields.io/badge/Matplotlib-008080?style=for-the-badge&logo=python&logoColor=white)![Random](https://img.shields.io/badge/Random-3776AB?style=for-the-badge&logo=pypy&logoColor=white)
 
 ---
